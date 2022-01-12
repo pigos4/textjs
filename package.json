@@ -1,0 +1,16 @@
+{
+  "name": "prov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "in.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10"
+  }
+}
